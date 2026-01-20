@@ -10,3 +10,6 @@ def is_valid_email(email: str) -> bool:
 if __name__ == "__main__":
     print(is_valid_email("example@test.com"))
     print(is_valid_email("bad-email"))
+    
+    #test
+    
