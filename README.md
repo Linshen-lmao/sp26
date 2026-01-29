@@ -2,8 +2,10 @@
 Spring 2026 Data 498 Repository
 
 Contributors:
-- Taryn Laird
-- Zhiyao Liu(change again? something wrong here)
+- Taryn Laird (course instructor)
+- Zhiyao Liu
+- Duli Lei
+- Chaoran Chen
 
 
 This is our shared collection of useful resources and code snippets for Data Science. We will work on adding the resources from the Brightspace Site here over time.
